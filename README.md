@@ -21,7 +21,12 @@ git clone https://github.com/your_username/student-management-system.git
 3. create the required table and sample data.
 4. Update the MySQL database connection details in the dbConnect class.
 5. Build and run the project using a Java IDE or command-line tool.
-
+6. To import *student_data.sql* into your mysql database.
+    * **Type**: ```mysql -u username -p database_name < file.sql```
+    * The **username** refers to your MySQL username.
+    * **database_name** refers to the database you want to import.
+    * **file.sql** is your file name. (student_data.sql in our case.)
+    * If you've assigned a password, type it now and press Enter.
 
 # Usage
 * Launch the application
