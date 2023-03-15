@@ -1,6 +1,8 @@
 # Student Management System in JAVA
 This is a simple Student Management System project implemented using Java and MySQL. It allows users to perform CRUD (Create, Read, Update, Delete) operations on student data such as ID, first name, last name, major, phone number, GPA, and date of birth.
 
+[Step by Step guide to design and develop this application](https://iq.opengenus.org/student-management-system-in-java/)
+
 # Features
 * Add a new student
 * View student data
